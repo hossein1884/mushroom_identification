@@ -13,3 +13,4 @@ pip install numpy
 ```
 pip install matplotlib
 ```
+Finally, you need to install **Jupyter Notebook** in whatever IDE you have.
